@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"BracketHighlighter",
+		"HTMLBeautify",
+		"Javascript Beautify",
+		"LESS",
+		"Material Theme",
+		"Oceanic Next Color Scheme",
+		"One Dark Color Scheme",
+		"Package Control",
+		"SideBarEnhancements"
+	]
+}
