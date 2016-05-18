@@ -5,7 +5,9 @@
 	],
 	"installed_packages":
 	[
+		"Babel",
 		"BracketHighlighter",
+		"Dayle Rees Color Schemes",
 		"HTMLBeautify",
 		"Javascript Beautify",
 		"LESS",
