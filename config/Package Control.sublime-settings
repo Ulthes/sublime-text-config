@@ -2,20 +2,13 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"0_package_control_loader",
-		"One Dark Color Scheme",
-		"Theme - Soda"
 	],
 	"installed_packages":
 	[
-		"Babel",
-		"Base16 Color Schemes",
 		"BracketHighlighter",
 		"HTMLBeautify",
 		"Javascript Beautify",
 		"LESS",
-		"Markdown Extended",
-		"Oceanic Next Color Scheme",
 		"Package Control",
 		"SideBarEnhancements",
 		"Theme - Afterglow"
